@@ -1,0 +1,5 @@
+== datadog-client
+
+Client bindings for Datadog API in Haskell.
+
+Experimental.
